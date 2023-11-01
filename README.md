@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codermada
-- 👀 I’m interested in science, drawing manga, cooking, creating
+- 👀 I’m interested in science, drawing manga, cooking, creating things
 - 🌱 I’m currently learning bash, C programming
 - 💞️ I’m looking to collaborate on cool projects
 
